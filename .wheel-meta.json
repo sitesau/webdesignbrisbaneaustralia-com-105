@@ -1,0 +1,22 @@
+{
+  "wheel_id": 642,
+  "structure": "umbrella",
+  "slug": "webdesignbrisbaneaustralia-com-105",
+  "project": "web-design-brisbane-how-to-choose-a69f0158ec761b17b9ff41e78b533",
+  "parent_t1_ref": "webdesignbrisbaneaustralia-com-152",
+  "node_role": "feeder",
+  "money_target": "webdesignbrisbaneaustralia.com.au",
+  "primary_kw": "web design brisbane how to choose",
+  "intended_url": "https://sitesau.github.io/webdesignbrisbaneaustralia-com-105/",
+  "tier": "T2",
+  "writeback_nonce": "36710f4e66d916e9",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/web-design-brisbane-cost-guide-c3b12d88c5e4fd38a52ba91a5def10bf/",
+      "anchor": "the web design brisbane cost guide overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
